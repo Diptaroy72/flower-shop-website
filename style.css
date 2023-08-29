@@ -1,0 +1,105 @@
+/* shared styles */
+
+.btn-primary{
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    border: 0;
+    color: white;
+    font-weight: 700;
+}
+
+/* banner related style */
+
+
+.banner-container{
+    display: flex;
+    gap: 97px;
+    justify-content: space-between;
+    align-items: center;
+   background-color: rgba(229, 84, 115, 0.10);;
+}
+
+.banner-left{
+    margin-left: 240px;
+}
+
+.banner-pic{
+    margin-right: 100px;
+    width: 550px;
+    margin-top: 50px;
+
+}
+
+.banner-heading{
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 800;
+  
+}
+.banner-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.feature{
+    text-align: center;
+    margin-top: 178px;
+}
+
+.flower-bonus{
+   
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.flower-bonus-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.flower-bonus-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+.bonus-pic{
+    width: 300px;
+}
+
+.color-flowers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flower-title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+.hot-deal-container{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 0;
+}
+
+.hot-texts{
+    text-align: center;
+}
+
+.image-container{
+    display: flex;
+    gap: 30px;
+    margin-left: 15px;
+}
